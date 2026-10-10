@@ -1,0 +1,59 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes/
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# General
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+build/
+dist/
+
+# FPGA simulation
+*.vcd
+*.fst
+*.wlf
+*.wdb
+*.vpd
+*.vvp
+transcript
+vsim.wlf
+work/
+
+# Xilinx Vivado
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.dcp
+*.jou
+*.pb
+
+# Intel Quartus
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+*.qws
+*.qdb
+*.smsg
+
+# Generated FPGA outputs
+*.bit
+*.sof
+
+# Project
+task/
+report/
