@@ -1,0 +1,9 @@
+# Surfer 0.7.0; open build/div_10/tb_uart_loopback.fst first.
+variable_add tb_uart_loopback.clk
+variable_add tb_uart_loopback.reset
+variable_add tb_uart_loopback.key
+variable_add tb_uart_loopback.uart_tx
+variable_add tb_uart_loopback.uart_rx
+variable_add tb_uart_loopback.tx_led
+variable_add tb_uart_loopback.rx_led
+zoom_fit

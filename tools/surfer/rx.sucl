@@ -1,0 +1,8 @@
+# Surfer 0.7.0; open build/div_10/tb_uart_rx.fst first.
+variable_add tb_uart_rx.clk
+variable_add tb_uart_rx.reset
+variable_add tb_uart_rx.uart_rx
+variable_add tb_uart_rx.ledr
+zoom_fit
+zoom_in
+goto_start
